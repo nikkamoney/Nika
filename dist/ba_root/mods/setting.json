@@ -58,8 +58,8 @@
             ],
             "randomColor": true,
             "msg": [
-                "\ue048WELCOME TO VORTEX VS HONOR OFFICIAL\ue048",
-                "\ue043JOIN OUR DISCORD : VH PARADISE :)\ue043",
+                "\ue048WELCOME TO VULGAR VS ATKILLER OFFICIAL\ue048",
+                "\ue043JOIN OUR DISCORD : SPARK OFFICIAL :)\ue043",
                 "\ue048TYPE (/vp) TO KNOW VOTING PLAYLIST\ue048",
                 "\ue048TYPE (/acl) TO KNOW ADMIN COMMANDS\ue048",
                 "\ue048TYPE (/coinhelp) TO KNOW HOW TO BUY EFFECTS AND MANY MORE..\ue048",
@@ -90,7 +90,7 @@
             "type (/cs) to find out how to complaint in discord server from game",
             "type (/coinhelp) to know how to buy effects and many more..",
             "type (/dclink) to know how to link pbid to discord-id & get rewards",
-            "join our discord : vh paradise :)",
+            "join our discord : spark smp :)",
             "type vp to know voting playlist",
             "please respect other players :)",
             "start msg with prefix .(dot) to send in game popup msg",
@@ -104,12 +104,12 @@
     "TopMapText": {
         "enable": true,
         "msg": [
-            "\ue062VORTEX\ue062",
-            "\ue04bVORTEX x HONOR\ue04b",
-            "\ue048HONOR\ue048",
-            "\ue04bVORTEX x HONOR\ue04b",
-            "\ue062VORTEX\ue062",
-            "\ue048HONOR\ue048"
+            "\ue062Editor Vulgar\ue062",
+            "\ue04bVulgar x Atkillerninja\ue04b",
+            "\ue048Server By Atkillerninja\ue048",
+            "\ue04bATKILLER x Vulgar\ue04b",
+            "\ue062ENJOY YOUR STAY\ue062",
+            "\ue048HAVE FUN!\ue048"
         ]
     },
     "statsResetAfterDays": 45,
@@ -150,10 +150,10 @@
         "timezone": "Asia/Kolkata"
     },
     "colorful_explosions": {
-        "enable": false
+        "enable": true
     },
     "backflip": {
-        "enable": false
+        "enable": true
     },
     "ballistica_web": {
         "enable": false,
@@ -232,28 +232,28 @@
         }
     },
     "discordbot": {
-        "enable": false,
+        "enable": true,
         "database_name": "default",
-        "token": "<bot-token-here>",
+        "token": "MTM2MDE4MTM5MzQ5MzMyODAxMw.Glfz-G.vpX-GuiJV1Gx0j4eHAXNatGISP7-M-NTHPb3CI",
         "liveChat": true,
-        "liveStatsChannelID": 1237851459899625512,
+        "liveStatsChannelID": 1360515127882944613,
         "logsChannelID": 1177676398803034153,
-        "complaintChannelID": "<complaint_channel_id>",
+        "complaintChannelID": "1360514061510512717",
         "notifyChannelID": "<notify_channel_id>",
         "whitelisted_servers": [
-            803681951109873724
+            1346118336244875336
         ],
         "allowed_user_ids": [
-            803681951109873724,
-            856735876423483454
+            1120196108145131563,
+            1139201979843891240
         ],
-        "bot_prefix": "<bot-prefix-here>",
-        "commands_prefix": "<command-prefix-here>",
-        "complaint_role": "<complaint_role_id_here>",
+        "bot_prefix": "s!",
+        "commands_prefix": "s!",
+        "complaint_role": "1360222128766587043",
         "notify_role": "<notify_role_id_here>"
     },
     "autoadmin": {
-        "enable": false,
+        "enable": true,
         "top_rank_count": 50,
         "admin_rank": [
             1
@@ -295,7 +295,7 @@
         "enable": true,
         "betrayWarnCooldownMinutes": 5,
         "maxWarnCount": 5,
-        "afterBetrayWarnKickMsg": "You have been kicked for betraying your team!",
+        "afterBetrayWarnKickMsg": "Badmoshi mt kro team ka respect kro!",
         "betraywarnMsg": "Warning: Betraying your teammates is not allowed!"
     },
     "allowTeamChat": true,
@@ -305,7 +305,7 @@
     "allowInGameDm": true,
     "newResultBoard": true,
     "HostDeviceName": "v1.4",
-    "HostName": "VH-v2.0",
+    "HostName": "Vulgar-v2.0",
     "ShowKickVoteStarterName": true,
     "autoTeamBalance": true,
     "KickVoteMsgType": "chat",
@@ -319,8 +319,8 @@
     "maxPlayersPerDevice": 2,
     "warnMsg": "WARNING !!! DONT DO AGAIN! :)",
     "afterWarnKickMsg": "Enough warnings, Goodbye have a nice day :)",
-    "firstTimeJoinMsg": "\ud83c\udf1fWelcome to the vh paradise bang\ud83c\udf1f",
-    "regularWelcomeMsg": "\ud83d\udc4bWelcome back to vh paradise bang\ud83d\udc4b",
+    "firstTimeJoinMsg": "\ud83c\udf1fWelcome to Spark Offical\ud83c\udf1f",
+    "regularWelcomeMsg": "\ud83d\udc4bWelcome back to Spark Official \ud83d\udc4b",
     "contributeData": true,
     "enabletags": true,
     "enablehptag": true,
@@ -332,5 +332,9 @@
     "ShiningPlayers": true,
     "enableTop5effects": true,
     "EnablePlayerProfilesTag": true,
-    "enableTagAnimation": true
+    "enableTagAnimation": true,
+    "mongo": {
+        "connect_url": "mongodb+srv://bombsquad_user:bsadmin1234@cluster0.ftoauic.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "db_name": "default"
+    }
 }

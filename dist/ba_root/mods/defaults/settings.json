@@ -7,7 +7,7 @@
     },
     "textonmap": {
         "top watermark": "Welcome to server \nIP @IP PORT @PORT",
-        "bottom left watermark": "Owner : <owner-name> \nEditor : <bablu>\nScripts : BCS1.7.13",
+        "bottom left watermark": "Owner : atkiller \nEditor : vulgar\nScripts : BCS1.7.13",
         "center highlights":{
             "color":[1,0,0],
             "randomColor":true,
@@ -15,13 +15,13 @@
                 "type end to start end vote",
                 "start msg with prefix .(dot) to send in game popup msg",
                 "start msg with prefix ,(comma) to send msg to teammates",
-                "BombSquad Community Server - BCS"
+                "Spark  Community Server - Smp"
                 ]
         }
     },
     "ScoreScreenAnnouncement":{
         "enable": true,
-        "msg": ["click stats button to join discord", "watch hey smoothy youtube channel","download new mods from discord", "use /ping all to check others ping.",
+        "msg": ["click stats button to join discord", "rank 1 + 40k score = admin","download new mods from discord", "use /ping all to check others ping.",
     "start msg with prefix ,(comma) to send msg to teammates", "start msg with prefix .(dot) to send in game popup msg","click stats button for leaderboard","get notification when friends join this server, checkout leaderboard",
 "abusers, spammers will get auto ban", "doesnt matter who starts fight, if you abuse- you will get ban too."]
     },

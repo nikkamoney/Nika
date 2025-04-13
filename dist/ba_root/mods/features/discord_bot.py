@@ -27,12 +27,12 @@ livestatsmsgs = []
 logsChannelID = 859519868838608970
 liveStatsChannelID = 1079019991694839818
 notifyChannelID = 1079019991694839818
-complaintChannelID = 859519868838608970
+complaintChannelID = int(settings["discordbot"]["complaintChannelID"])
 whitelisted_servers = 1168272029280112673
 whitelisted_users = 123456789012345678
 CurrencyName = ''
 notify_role = ''
-complaint_role = ''
+complaint_role = f'<@&{settings["discordbot"]["complaint_role"]}>'
 prefix = ''
 commands_prefix = ''
 liveChat = True
@@ -133,6 +133,8 @@ async def send_complaint_to_channel(server_name, time, myself, ign, useracid, fi
     # Replace YOUR_COMPLAINTS_CHANNEL_ID with the actual ID of your complaints channel
     channel_id = complaintChannelID
     channel = client.get_channel(channel_id)
+    if channel is None:
+        print(f"[ERROR] Complaint channel ID {channel_id} not found. Check if it’s correct and the bot has permission.")
 
     if not channel:
         print(f"Channel with ID {channel_id} not found.")
@@ -151,6 +153,8 @@ async def joined_player(pbid, devices_string, time):
     # Replace YOUR_COMPLAINTS_CHANNEL_ID with the actual ID of your complaints channel
     channel_id = notifyChannelID
     channel = client.get_channel(channel_id)
+    if channel is None:
+        print(f"[ERROR] Complaint channel ID {channel_id} not found. Check if it’s correct and the bot has permission.")
     otheraccounts = pdata.get_detailed_pinfo(pbid)
     serverss = _ba.app.server._config.party_name
 

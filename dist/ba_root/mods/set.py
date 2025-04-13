@@ -10,17 +10,30 @@ tell_time = True
 #
 #
 #
-askQuestions = False
+askQuestions = True
 #
 #
 #
-questionsList = {'If you lost your ranks worry not.. Reclaim your scores, kills and deaths by joining the discord server...!': ['ok'],
-                 'add': [None], 
-                 'multiply': [None]}
+questionsList = {
+    "What is the capital of India?": ["new delhi", "delhi"],
+    "What color is the sky on a clear day?": ["blue", "sky blue"],
+    "Which AI models are most popular nowadays?": ["chatgpt", "gpt", "gpt-4"],
+    "What comes after 9?": ["10", "ten"],
+    "What is 5 x 3?": ["15"],
+    "Who's the owner of this server?": ["atkiller", "atkillerninja"],
+    "Who's the editor of this server?": ["vulgar", "lostgalaxy"],
+    "Which BombSquad powerup makes you explode on contact?": ["impact bomb", "impact"],
+    "What is the name of the default BombSquad character?": ["spaz"],
+    "Which powerup lets you throw unlimited bombs?": ["infinite bombs", "infinite"],
+    "What is the color of tickets used in BombSquad?": ["green"],
+    "Which item heals you in BombSquad?": ["health box", "health pack", "medkit"],
+    "Which BombSquad character has spiky armor?": ["robot", "zombie robot"],
+    "What is the max number of players in a standard BombSquad game?": ["8", "eight"]
+}
 #
 #
 #
-questionDelay = 10 #60 #seconds
+questionDelay = 60 #60 #seconds
 #
 #
 #

@@ -5,7 +5,7 @@
 # Uncomment any of these values to override defaults.
 
 # Name of our server in the public parties list.
-party_name: "|-VORTEX BANG-|" 
+party_name: "🌟ATKILLER VS VULGAR|EPIC TEAMS🌟" 
 
 # If true, your party will show up in the global public party list
 # Otherwise it will still be joinable via LAN or connecting by IP address.
@@ -92,7 +92,7 @@ ffa_series_length: 24
 # currently-signed-in account's id. To fetch info about an account,
 # your back-end server can use the following url:
 # http://bombsquadgame.com/accountquery?id=ACCOUNT_ID_HERE
-stats_url: https://discord.com/invite/4BZvMrA3Sj
+stats_url: https://discord.gg/F42sEt5u
 
 # If present, the server subprocess will attempt to gracefully exit after
 # this amount of time. A graceful exit can occur at the end of a series
@@ -119,8 +119,8 @@ stats_url: https://discord.com/invite/4BZvMrA3Sj
 
 # Team names (teams mode only).
 team_names:
-- vortex
-- Honor
+- ATKILLER
+- VULGAR
 
 # Team colors (teams mode only).
 team_colors:

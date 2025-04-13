@@ -4,5 +4,29 @@
         "user_name": "vortex_",
         "command": "v!sc",
         "timestamp": "2024-03-11 06:10:39"
+    },
+    {
+        "user_id": 1120196108145131563,
+        "user_name": "vulgar_xd",
+        "command": "$list",
+        "timestamp": "2025-04-12 04:15:29"
+    },
+    {
+        "user_id": 1120196108145131563,
+        "user_name": "vulgar_xd",
+        "command": "s!shop",
+        "timestamp": "2025-04-12 15:02:19"
+    },
+    {
+        "user_id": 1120196108145131563,
+        "user_name": "vulgar_xd",
+        "command": "s!ping",
+        "timestamp": "2025-04-12 15:09:07"
+    },
+    {
+        "user_id": 1120196108145131563,
+        "user_name": "vulgar_xd",
+        "command": "s!shop",
+        "timestamp": "2025-04-12 15:09:30"
     }
 ]

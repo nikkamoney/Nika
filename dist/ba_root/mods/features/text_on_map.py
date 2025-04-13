@@ -152,7 +152,7 @@ class textonmap:
        )   
         node = _ba.newnode('text',
                             attrs={
-                                'text':u'\ue043[\U0001F451] OWNER : VORTEX & HONOR\n\ue048[\U0001F6E0] MANAGED BY : TEAM VORTEX',
+                                'text':u'\ue043[\U0001F451] OWNER : ATKILLER & VULGAR\n\ue048[\U0001F6E0] MANAGED BY : VULGAR',
                                 'flatness': 1.0,
                                 'h_align': 'left',
                                 'v_attach':'bottom',
@@ -242,7 +242,7 @@ class textonmap:
 
         node = _ba.newnode('text',
                             attrs={
-                                'text':u'\ue048CONTACT OWNER FOR DETAILS & SUGGESTION\ue048\n\ue00cHAPPY BOMBSQUADING\ue00c',
+                                'text':u'\ue048RANK 1 WITH 40K+ SCORE WILL GET ADMIN \ue048\n\ue00cRANK 2-5 WITH 30K + SCORE WILL GET VIP\ue00c',
                                 'flatness': 3.0,
                                 'h_align': 'center',
                                 'v_attach':'top',
@@ -302,7 +302,7 @@ class textonmap:
         )            
         node = _ba.newnode('text',
                             attrs={
-                                'text':u'\ue048| VH PARADISE |\ue048',
+                                'text':u'\ue048| SPARK OFFICIAL |\ue048',
                                 'flatness':1.0,
                                 'h_align':'center',
                                 'v_attach':'top',

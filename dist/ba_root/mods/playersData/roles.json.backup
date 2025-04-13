@@ -10,8 +10,8 @@
             "ALL"
         ],
         "ids": [
-            "pb-IF4BUlQBJw==",
-            "pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH"
+            "pb-IF4BUnQ-PA==",
+            "pb-IF4WUUozUw=="
         ]
     },
     "co-owner": {
@@ -144,7 +144,8 @@
             "ALL"
         ],
         "ids": [
-            "pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH"
+            "pb-JiNJARFeXENAVF5FEkFQXFVBGUJWTlVH",
+            "pb-IF4FUXcoHw=="
         ]
     },
     "cs": {
@@ -206,9 +207,14 @@
             "addcmd",
             "removecmd",
             "removetag",
-            "playlist"
+            "playlist",
+            "ooh",
+            "tex",
+            "acl"
         ],
-        "ids": []
+        "ids": [
+            "pb-IF4FUXcoHw=="
+        ]
     },
     "tcs": {
         "tag": "\u2728T-COMPLAINT-STAFF\u2728",
@@ -404,11 +410,11 @@
         ],
         "commands": [],
         "ids": [
-            "pb-IF40UEwoPA==",
-            "pb-IF4FUkIOFg==",
-            "pb-IF4UU2ldEg==",
-            "pb-IF4KUBQFJA==",
-            "pb-IF4GUEFaJg=="
+            "pb-IF4zUUk4EA==",
+            "pb-IF5cUGoGBg==",
+            "pb-IF4WUUozUw==",
+            "pb-JiNJARFYXERGXFtDGEJUUFJBE0JZQ1NL",
+            "pb-IF4FUWUsMA=="
         ]
     },
     "bypass-warn": {

@@ -19,7 +19,7 @@
    "Complete": true
   },
   "Got the Moves": {
-   "Complete": false
+   "Complete": true
   },
   "In Control": {
    "Complete": false
@@ -126,7 +126,7 @@
  },
  "Auto Account State": "Server",
  "Auto Balance Teams": true,
- "Bear Coin": 1040,
+ "Bear Coin": 1180,
  "Bear Store": {
   "Buy Firebombs": false,
   "Buy Option": false,
@@ -188,33 +188,33 @@
   ]
  ],
  "Custom Team Names": [
-  "vortex",
-  "Honor"
+  "ATKILLER",
+  "VULGAR"
  ],
  "Default Player Profiles": {
   "Client Input Device #1": "__account__",
   "Client Input Device #10": "\ua9c1\ud83d\udcab\u2022NFR\u2022\ud83d\udcab\ua9c2",
-  "Client Input Device #2": "\u0443\u03b1\u0455\u043d \u2654",
-  "Client Input Device #3": "__account__",
-  "Client Input Device #4": "__account__",
-  "Client Input Device #5": "Bandar",
-  "Client Input Device #6": "all dog",
-  "Client Input Device #7": "__account__",
-  "Client Input Device #8": "MINNAL \u1b44MURALI\u0fd0",
-  "Client Input Device #9": "_random"
+  "Client Input Device #2": "__account__",
+  "Client Input Device #3": "\u300e\u262cSINGROL\u262c\u300f",
+  "Client Input Device #4": "godzilla\ud83d\ude24",
+  "Client Input Device #5": "__account__",
+  "Client Input Device #6": "__account__",
+  "Client Input Device #7": "Zee!",
+  "Client Input Device #8": "__account__",
+  "Client Input Device #9": "Alcaizer"
  },
  "Fleet Zone Pings": {
   "prod": {
-   "bahrain": 38.82592338266841,
-   "bangkok": 79.97539198794402,
-   "delhi": 32.23938769105007,
-   "dubai": 28.074264176160796,
-   "hong_kong": 91.80041197221726,
-   "hyderabad": 22.093347107322188,
-   "kolkata": 26.53673811684712,
-   "mumbai": 1.1528284460655414,
-   "singapore": 56.617544488370186,
-   "tel_aviv": 154.08313700027065
+   "bahrain": 37.4059682972329,
+   "bangkok": 86.26470896910905,
+   "delhi": 33.20230636153428,
+   "dubai": 26.991899727909185,
+   "hong_kong": 90.61708917652868,
+   "hyderabad": 37.804645581622026,
+   "kolkata": 30.936303615399083,
+   "mumbai": 1.2552638324668806,
+   "singapore": 61.76835119280804,
+   "tel_aviv": 133.9230289995612
   }
  },
  "Free-for-All Max Players": 25,
@@ -655,7 +655,7 @@
    }
   ]
  },
- "launchCount": 425,
+ "launchCount": 474,
  "lc14173": 1,
  "lc14292": 1
 }

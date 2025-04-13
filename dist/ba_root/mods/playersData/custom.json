@@ -1,7 +1,32 @@
 {
-    "customtag": {},
-    "customeffects": {},
+    "customtag": {
+        "pb-IF4BUnQ-PA==": "\u3164\u3164\u3164\u3164\u3164\u3164\u3164",
+        "pb-IF5cUGoGBg==": "\ue04f\ue048\ue063Tactica\ue063\ue048\ue04f",
+        "pb-IF4WUUozUw==": "\ue04f\ue048\ue043EDITOR\ue043\ue048\ue04f",
+        "pb-IF4zUUk4EA==": "\ue046\ue043THE\u2717KILLER\u2713\ue043\ue046",
+        "pb-IF4FUXcoHw==": "\u3164\u3164\u3164\u3164\u3164\u3164\u3164"
+    },
+    "customeffects": {
+        "pb-IF4BUnQ-PA==": [
+            "surrounder",
+            "surrounder",
+            "flame"
+        ],
+        "pb-IF4WUUozUw==": [
+            "spark",
+            "fire",
+            "new_rainhow"
+        ],
+        "pb-IF4FUXcoHw==": []
+    },
     "paideffects": {},
     "coin_claim": {},
-    "complainter": {}
+    "complainter": {
+        "pb-IF4BUnQ-PA==": {
+            "expiry": "13-04-2025 08:19:04 AM"
+        },
+        "pb-IF4WUUozUw==": {
+            "expiry": "13-04-2025 08:24:43 AM"
+        }
+    }
 }
