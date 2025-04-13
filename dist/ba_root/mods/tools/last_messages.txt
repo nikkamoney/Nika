@@ -3827,3 +3827,11 @@ Host msg: | What is 5 x 3?
 Host msg: | What is the color of tickets used in BombSquad?
 Host msg: | What is the max number of players in a standard BombSquad game?
 Host msg: | What is 5 x 3?
+Host msg: | Which item heals you in BombSquad?
+Host msg: | What comes after 9?
+Host msg: | What is 5 x 3?
+Host msg: | Which AI models are most popular nowadays?
+Host msg: | What is the name of the default BombSquad character?
+Host msg: | What is the capital of India?
+Host msg: | What is the color of tickets used in BombSquad?
+Host msg: | What is the name of the default BombSquad character?
